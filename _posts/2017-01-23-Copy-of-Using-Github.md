@@ -1,5 +1,5 @@
 ---
-title: blog post !
+title: blog post 1
 layout: post
 author: charlie.line
 permalink: /copy-of-using-github/
