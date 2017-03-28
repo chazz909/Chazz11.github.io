@@ -214,7 +214,7 @@ img {
   margin-right: 15px;
 
   @include mobile {
-    float: none;
+    float: bold;
     display: block;
     margin: 0 auto;
   }
